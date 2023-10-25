@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TrendMobile CRM",
+  "name": "Sistema Integrado para la Gestión y Análisis de Tendencias de Fallas en Equipos Móviles y Clientes",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
